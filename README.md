@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on IDK
 - 📫 How to reach me @Rikozchan on IG
+- playing piano with Shinji
 
 <!---
 RikozChan/RikozChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
